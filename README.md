@@ -88,27 +88,7 @@ Where:
 
 ---
 
-### 2. Surface Currents for TE10 Mode
-
-**Description**: Surface current distribution for the TE₁₀ mode in a rectangular waveguide.
-
-[Surface Currents for TE10 Mode](https://www.ee.iitb.ac.in/course/~vel/apps/SurfaceCurrentofRecWG%28TE10%29/TE10%20current.png)
-
-**Source**: Virtual Electromagnetics Lab, IIT Bombay
-
----
-
-### 3. Waveguide Mode Cutoff Frequencies
-
-**Description**: Relationship between waveguide dimensions and cutoff frequencies for TE modes.
-
-[Waveguide Mode Cutoff Frequencies](https://www.electronics-notes.com/images/waveguide-mode-cutoff-frequency-01.svg)
-
-**Source**: Electronics Notes
-
----
-
-### 4. Structure of a Cavity Resonator
+### 2. Structure of a Cavity Resonator
 
 **Description**: Structure and field distribution of a cavity resonator in TE mode.
 
@@ -119,7 +99,7 @@ Where:
 
 ---
 
-### 5. Resonant Cavity Modes (Cylindrical)
+### 3. Resonant Cavity Modes (Cylindrical)
 
 **Description**: Field distributions for TE₀₁, TE₁₁, and TE₂₁ modes in a cylindrical cavity resonator.
 
@@ -131,7 +111,7 @@ Where:
 
 ---
 
-### 6. Electric Field Distribution in TE10 Mode (Simulation)
+### 4. Electric Field Distribution in TE10 Mode (Simulation)
 
 **Description**: Simulated electric field in TE₁₀ mode using a field solver.
 
@@ -143,7 +123,7 @@ Where:
 
 ---
 
-### 7. Surface Current Distribution in SIW
+### 5. Surface Current Distribution in SIW
 
 **Description**: Surface current distributions for TE₁₀ and TE₂₀ modes in a Substrate Integrated Waveguide (SIW).
 
@@ -154,7 +134,7 @@ Where:
 
 ---
 
-### 8. Parallel-Plate Waveguide with TE10 Mode
+### 6. Parallel-Plate Waveguide with TE10 Mode
 
 **Description**: TE₁₀ mode inside a parallel-plate waveguide (PPW) with tailored dispersion.
 
