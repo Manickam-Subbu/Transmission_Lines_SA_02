@@ -124,8 +124,8 @@ Where:
 
 **Description**: Field distributions for TE₀₁, TE₁₁, and TE₂₁ modes in a cylindrical cavity resonator.
 
-![Resonant Cavity Modes]!
-[A-resonant-cavity-supports-only-modes-that-meet-the-resonance-condition-for-cavity](https://github.com/user-attachments/assets/08cb680b-6a7e-4835-b3bb-a4b2abee567b)
+![Resonant Cavity Modes]
+![A-resonant-cavity-supports-only-modes-that-meet-the-resonance-condition-for-cavity](https://github.com/user-attachments/assets/08cb680b-6a7e-4835-b3bb-a4b2abee567b)
 
 
 **Source**: Vukoman R. Jokanović, *ResearchGate*
