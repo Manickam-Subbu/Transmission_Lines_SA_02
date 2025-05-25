@@ -81,8 +81,8 @@ Where:
 ### 1. TE10 Mode in Rectangular Waveguide
 
 **Description**: Electric field distribution of the dominant TE₁₀ mode in a rectangular waveguide.
-
-[TE10 Mode in Rectangular Waveguide]![Electric-field-distribution-of-the-dominant-TE10-mode](https://github.com/user-attachments/assets/a28147ef-efa4-4209-b059-084c11c2e7f6)
+#TE10 Mode in Rectangular Waveguide
+![Electric-field-distribution-of-the-dominant-TE10-mode](https://github.com/user-attachments/assets/a28147ef-efa4-4209-b059-084c11c2e7f6)
 
 
 **Source**: Rajbanul Akhond, *ResearchGate*
