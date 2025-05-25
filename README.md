@@ -78,3 +78,8 @@ Below is a quick reference table for the key parameters used in the design:
    ```bash
    git clone https://github.com/YourUsername/Design-and-Simulation-High-Frequency-Waveguide.git
    cd Design-and-Simulation-High-Frequency-Waveguide
+   pip install numpy scipy matplotlib
+   python sim/simulation_code.py
+   python sim/visualization/visualize_results.py
+
+
