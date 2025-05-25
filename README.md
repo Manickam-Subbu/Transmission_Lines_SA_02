@@ -81,7 +81,6 @@ Where:
 ### 1. TE10 Mode in Rectangular Waveguide
 
 **Description**: Electric field distribution of the dominant TE₁₀ mode in a rectangular waveguide.
-### **TE10 Mode in Rectangular Waveguide**
 ![Electric-field-distribution-of-the-dominant-TE10-mode](https://github.com/user-attachments/assets/a28147ef-efa4-4209-b059-084c11c2e7f6)
 
 
@@ -113,7 +112,6 @@ Where:
 
 **Description**: Structure and field distribution of a cavity resonator in TE mode.
 
-### **Structure of a Cavity Resonator**
 ![Structure-of-the-cavity-resonator-and-the-electromagnetic-fields-in-the-TE-mode](https://github.com/user-attachments/assets/5203340a-843a-4a73-bf32-44bd1d8cdf55)
 
 
@@ -125,7 +123,6 @@ Where:
 
 **Description**: Field distributions for TE₀₁, TE₁₁, and TE₂₁ modes in a cylindrical cavity resonator.
 
-### **Resonant Cavity Modes**
 
 ![A-resonant-cavity-supports-only-modes-that-meet-the-resonance-condition-for-cavity](https://github.com/user-attachments/assets/08cb680b-6a7e-4835-b3bb-a4b2abee567b)
 
@@ -138,7 +135,6 @@ Where:
 
 **Description**: Simulated electric field in TE₁₀ mode using a field solver.
 
-### **Electric Field Distribution in TE10 Mode**
 
 ![Simulated-electric-field-in-TE10-mode](https://github.com/user-attachments/assets/dca3de08-62e0-49ba-881f-714cf9fa38d3)
 
@@ -151,7 +147,6 @@ Where:
 
 **Description**: Surface current distributions for TE₁₀ and TE₂₀ modes in a Substrate Integrated Waveguide (SIW).
 
-### **Surface Current Distribution in SIW**
 
 (https://www.researchgate.net/publication/359576905/figure/fig2/AS:1132333712402432@1652445410405/Surface-current-distribution-of-SIW-A-TE10-mode-B-TE20-mode.png)
 
