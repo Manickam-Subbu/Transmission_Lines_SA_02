@@ -5,10 +5,8 @@ Welcome to the repository for **Design and Simulation of a High-Frequency Rectan
 
 ---
 
-## Repository Structure
 
 
----
 
 ## Table of Contents
 
