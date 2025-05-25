@@ -147,8 +147,8 @@ Where:
 
 **Description**: Surface current distributions for TE₁₀ and TE₂₀ modes in a Substrate Integrated Waveguide (SIW).
 
+![Surface-current-distribution-of-SIW-A-TE10-mode-B-TE20-mode](https://github.com/user-attachments/assets/bf54d036-b555-4f73-b9bf-4a555a3baaa2)
 
-(https://www.researchgate.net/publication/359576905/figure/fig2/AS:1132333712402432@1652445410405/Surface-current-distribution-of-SIW-A-TE10-mode-B-TE20-mode.png)
 
 **Source**: Dujuan Wei et al., *ResearchGate*
 
@@ -158,7 +158,8 @@ Where:
 
 **Description**: TE₁₀ mode inside a parallel-plate waveguide (PPW) with tailored dispersion.
 
-![Parallel-Plate Waveguide with TE10 Mode](https://www.researchgate.net/publication/285648061/figure/fig4/AS:614253693370368@1523487433321/A-parallel-plate-waveguide-PPW-with-the-TE10-mode-exhibiting-specific-effective.png)
+![A-parallel-plate-waveguide-PPW-with-the-TE10-mode-exhibiting-specific-effective](https://github.com/user-attachments/assets/586f27bb-5199-4a6f-b874-7602e89a8aa4)
+
 
 **Source**: Cristian Della Giovampaola, *ResearchGate*
 
