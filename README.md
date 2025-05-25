@@ -113,7 +113,8 @@ Where:
 
 **Description**: Structure and field distribution of a cavity resonator in TE mode.
 
-![Structure of a Cavity Resonator](https://www.researchgate.net/profile/Akira-Nakayama/publication/3132403/figure/fig1/AS:667819032788992@1536232511419/Structure-of-the-cavity-resonator-and-the-electromagnetic-fields-in-the-TE-mode.png)
+![Structure of a Cavity Resonator]![Structure-of-the-cavity-resonator-and-the-electromagnetic-fields-in-the-TE-mode](https://github.com/user-attachments/assets/5203340a-843a-4a73-bf32-44bd1d8cdf55)
+
 
 **Source**: Akira Nakayama, *ResearchGate*
 
