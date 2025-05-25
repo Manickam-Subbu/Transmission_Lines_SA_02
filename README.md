@@ -82,4 +82,19 @@ Below is a quick reference table for the key parameters used in the design:
    python sim/simulation_code.py
    python sim/visualization/visualize_results.py
 
+       +---------------------------------+
+       |        Rectangular Waveguide    |
+       |        Cross-Section            |
+       +---------------------------------+
+       |                                 |
+   b   |   +-------------------------+   |
+       |   |                         |   |
+       |   |                         |   |
+       |   |                         |   |
+       |   +-------------------------+   |
+       |                                 |
+       +---------------------------------+
+             <---------- a -------------->
+
+
 
