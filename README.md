@@ -82,6 +82,9 @@ Below is a quick reference table for the key parameters used in the design:
    python sim/simulation_code.py
    python sim/visualization/visualize_results.py
 
+2. **Visual Diagrams**
+Rectangular Waveguide Cross-Section
+Below is an ASCII diagram that displays the cross-sectional view of a typical rectangular waveguide:
        +---------------------------------+
        |        Rectangular Waveguide    |
        |        Cross-Section            |
